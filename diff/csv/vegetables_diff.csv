@@ -1,0 +1,6 @@
+FIELD,LOCATION
+carrot,In vegetables_df1 only
+cucumber,In vegetables_df1 only
+potato,In vegetables_df1 only
+spinach,In vegetables_df1 only
+tomato,In both DataFrames
