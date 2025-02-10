@@ -1,6 +1,12 @@
-FIELD,LOCATION
-carrot,In vegetables_df1 only
-cucumber,In vegetables_df1 only
-potato,In vegetables_df1 only
-spinach,In vegetables_df1 only
-tomato,In both DataFrames
+vegetables_df1,vegetables_df2,LOCATION
+,broccoli,In vegetables_df2 only
+carrot,,In vegetables_df1 only
+cucumber,,In vegetables_df1 only
+,green pepper,In vegetables_df2 only
+,green pepper,In vegetables_df2 only
+,kale,In vegetables_df2 only
+,onion,In vegetables_df2 only
+,peas,In vegetables_df2 only
+potato,,In vegetables_df1 only
+spinach,,In vegetables_df1 only
+tomato,tomato,In both DataFrames

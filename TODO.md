@@ -1,3 +1,3 @@
 # TODO
-- [ ] Fix the Green Pepper issue (new data)
-- [ ] Unique fields as output
+- [ ] Unique fields as output (add as an option)
+- [ ] Improve exception handling

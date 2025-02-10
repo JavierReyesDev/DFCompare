@@ -1,10 +1,11 @@
-FIELD,LOCATION
-apple,In both DataFrames
-banana,In both DataFrames
-cherry,In both DataFrames
-grape,In fruits_df2 only
-kiwi,In fruits_df1 only
-mango,In fruits_df1 only
-peach,In fruits_df1 only
-pear,In fruits_df2 only
-watermelon,In fruits_df2 only
+fruits_df1,fruits_df2,LOCATION
+apple,apple,In both DataFrames
+banana,banana,In both DataFrames
+cherry,cherry,In both DataFrames
+,grape,In fruits_df2 only
+kiwi,,In fruits_df1 only
+mango,,In fruits_df1 only
+peach,,In fruits_df1 only
+,pear,In fruits_df2 only
+,watermelon,In fruits_df2 only
+,,
